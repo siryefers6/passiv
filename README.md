@@ -1,2 +1,0 @@
-# passiv
-passiv
